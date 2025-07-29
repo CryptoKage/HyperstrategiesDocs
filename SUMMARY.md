@@ -30,7 +30,7 @@
 ---
 
 ### 🪙 Token Mechanics
-* [PST & HYPE Tokens](tokenomics/pst-mechanics.md)
+* [PST](tokenomics/pst-mechanics.md)
 
 ---
 

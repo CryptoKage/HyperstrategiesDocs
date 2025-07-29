@@ -6,16 +6,16 @@
 ---
 
 ### 🏛️ Core Offerings
-* [Vaults Overview](cosmic-offerings/vaults-overview.md)
-* [Core1 — Discretionary Vault](cosmic-offerings/core1-discretionary.md)
-* [Vault2 — ApeCoin EMA Strategy](cosmic-offerings/vault2-apecoin-ema.md)
-* [Vault3 — Future Strategies](cosmic-offerings/vault3-future.md)
-* [Withdrawal & Reinvestment Logic](cosmic-offerings/withdrawal-logic.md)
+* [Vaults Overview](core-offerings/vaults-overview.md)
+* [Core1 — Discretionary Vault](core-offerings/core1-discretionary.md)
+* [Vault2 — ApeCoin EMA Strategy](core-offerings/vault2-apecoin-ema.md)
+* [Vault3 — Future Strategies](core-offerings/vault3-future.md)
+* [Withdrawal & Reinvestment Logic](core-offerings/withdrawal-logic.md)
 
 ---
 
 ### 🔗 Hyperliquid Integration
-* [Integration Architecture](stellar-integrations/integration-architecture.md)
+* [Integration Architecture](integrations/integration-architecture.md)
 
 ---
 
@@ -25,25 +25,25 @@
 ---
 
 ### 📊 Performance & Dashboard
-* [Visualizing Performance](galactic-dashboards/performance-visualization.md)
+* [Visualizing Performance](dashboards/performance-visualization.md)
 
 ---
 
 ### 🪙 Token Mechanics
-* [PST & HYPE Tokens](tokenomics/pst-hype-mechanics.md)
+* [PST & HYPE Tokens](tokenomics/pst-mechanics.md)
 
 ---
 
 ### 🗺️ Project Roadmap
-* [Vision & Timeline](future-horizon/roadmap.md)
+* [Vision & Timeline](roadmap/roadmap.md)
 
 ---
 
 ### ⚖️ Legal & Compliance
-* [Disclaimer & Terms of Use](legal-nexus/disclaimer-and-terms.md)
+* [Disclaimer & Terms of Use](legal/disclaimer-and-terms.md)
 
 ---
 
 ### 💬 Community & Support
-* [Getting Involved](community-hub/how-to-engage.md)
-* [Frequently Asked Questions (FAQs)](community-hub/faqs.md)
+* [Getting Involved](community/community.md)
+* [Frequently Asked Questions (FAQs)](community/faqs.md)

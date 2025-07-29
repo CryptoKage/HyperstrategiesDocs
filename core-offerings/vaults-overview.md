@@ -13,4 +13,4 @@ Hyper‑Strategies offers modular vault products designed for both strategy soph
 - **On-chain transparency:** All trade execution is visible via Hyperliquid; users can audit performance in real time.
 - **Builder and referral alignment:** Hyperliquid order volume generates protocol-side value shared back via fees or points.
 - **Flexible compounding:** Users choose how and when profits compound or exit.
-- **Structure for scalability:** Additional vaults (like Vault3) allow progressive rollout of new strategies.
+- **Structure for scalability:** Additional vaults allow progressive rollout of new strategies.

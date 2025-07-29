@@ -21,9 +21,4 @@ Real-time data streams are available for:
 - **User data:** `WebData` (fills), `User` (account updates)
 
 #### Builder Code System
-Hyperliquid allows users to pre-approve a "builder" address and a maximum fee. Our strategy orders can then include a payload to attribute the trade volume to us.
-```json
-{
-  "b": "<builder_address>",
-  "f": "<fee_in_tenths_of_bps>"
-}
+Hyperliquid allows users to pre-approve a "builder" address and a maximum fee. Our strategy orders used through our front end or various tools can then include a payload to attribute the trade volume to us.

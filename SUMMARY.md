@@ -47,3 +47,8 @@
 ### 💬 Community & Support
 * [Getting Involved](community/community.md)
 * [Frequently Asked Questions (FAQs)](community/faqs.md)
+
+### 📓 User Guide
+* [User Guide / Getting Started](user-guide/README.md)
+    * [Detailed Guides](user-guide/detailed-guide.md)
+

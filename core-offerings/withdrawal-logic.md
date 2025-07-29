@@ -39,9 +39,3 @@ Performance fees are separate from deposit fees and apply only to trading profit
 | **2** | 18% | Full deposit value | Same |
 | **3** | 15% | Full deposit value | Same |
 | **4** | 10% | Full deposit value | Same |
-
-### Why This Approach Matters
-- **Encourages Reinvestment:** The buffer logic incentivizes subsequent deposits by eliminating immediate fees.
-- **Rewards User Loyalty:** The tiered structure lowers friction for high-frequency or long-term users.
-- **Keeps UI Simple:** A quick-view summary with an expandable section for advanced users.
-- **Aligns Incentives:** Deposit fees fund operations (via bonus points), while performance fees align with successful long-term strategy execution.

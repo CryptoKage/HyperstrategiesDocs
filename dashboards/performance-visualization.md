@@ -32,9 +32,3 @@ This section describes how Hyper‑Strategies visualizes vault performance, trad
 - **Panel E:** Bonus buffer gauge with remaining fee-free deposit allowance
 
 </details>
-
-### ⭐ Why This Matters
-- **Builds Trust:** Users can visually confirm strategy execution and performance.
-- **Clear Metrics:** Indicators like Sharpe ratio and drawdown help users assess risk and return quality.
-- **Incentive Visibility:** Tracking token rewards and fee economics reinforces alignment with protocol incentives.
-- **Seamless Experience:** Interactive visual components help both novice and experienced users navigate strategy performance.

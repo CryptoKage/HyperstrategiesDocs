@@ -1,78 +1,86 @@
 ## ✨ User Guide / Getting Started
 
-### 1. Install & Connect Wallet
+### 1. Create a Hyper‑Strategies Account
 
-**Step-by-step wallet integration:**
-
-1. Install **MetaMask** (or another EVM-compatible wallet).
-2. Add the **HyperEVM** network:
-   - RPC: `https://rpc.hyperliquid.xyz/evm`  
-   - Chain ID: `999`  
-   - Currency Symbol: `HYPE`
-3. Confirm the connection and select the appropriate account when prompted.
+- Visit **hyper-strategies.com** and click **“Sign up”**.
+- Register with email and complete onboarding.
+- Navigate to the **Wallet** page—your personal deposit address will be displayed here.
 
 ---
 
-### 2. Bridge & Deposit Assets
+### 2. Buy USDC and Send to Your Wallet
 
-- Bridge assets (e.g. USDC or HYPE) onto HyperEVM.
-- Once your wallet shows the correct balance, navigate to the **Core1** or **Vault2** deposit page.
-- Choose your deposit amount and select a lock-up tier (1-month or 3-month+).
-- Click **“Deposit”** and confirm the transaction in your wallet.
+**To fund your Hyper‑Strategies wallet, follow these steps:**
 
----
-
-### 3. Dashboard & Strategy Overview
-
-After depositing:
-
-- Visit the **Dashboard**:
-  - View **cumulative PnL**, **strategy allocation**, and **lock-up status**.
-  - See your **tier level** and **bonus buffer remaining**.
-  - Track performance metrics: **Sharpe ratio**, **drawdown**, **win rate**.
-- Visit the **Rewards** panel:
-  - Shows **$HYPE points earned**, **builder-fee income**, and **bonus buffer usage**.
+1. Search for a reliable crypto exchange or fiat on-ramp (e.g., Coinbase, Kraken, Crypto.com, Transak, Ramp, MoonPay).
+2. **Create and verify** your account.
+3. Deposit fiat (GBP, EUR, USD, etc.) via bank transfer or card.
+4. **Buy USDC** (select USDC in the app, choose your fiat pair).
+    - Example: Buy £100 USDC → you receive ~100 USDC (with small fees). :contentReference[oaicite:0]{index=0}
+5. **Withdraw or send USDC** to the address shown on your Hyper‑Strategies Wallet page.
+6. Once the transaction clears, your Hyper‑Strategies wallet balance will update.
 
 ---
 
-### 4. Managing Strategy & Profits
+### 3. Accessing Vaults & Making a Deposit
 
-**Auto-compound Logic:**
-
-- Toggle **Auto Compound**:
-  - **ON**: Profits stay in Hyperliquid and are redeployed in the next trades.
-  - **OFF**: Profits are withdrawn to Hyper‑Strategies and are available for user withdrawal.
-
-**Withdrawals & Buffer Logic:**
-
-<details>
-<summary>How withdrawals and bonus buffer work</summary>
-
-- First deposit incurs a **deposit fee**, which becomes your **bonus buffer** (e.g. a 20% fee = bonus buffer = initial deposit).
-- **Reinvest within buffer**: Your next deposit up to that buffer amount is **fee-free** and fully deployed.
-- Deposits above buffer incur a new deposit fee on the excess only.
-- Performance fees apply only on trading profit (20% for 1-month lock, 15% for 3-month+).
-</details>
+- Navigate to the **Dashboard**.
+- You’ll see available vaults: **Core1**, **Vault2**.
+- Click **Deposit** on Core1 vault.
+- Choose lock-up term (1‑month or 3‑+ months).
+- Enter amount (up to your wallet’s balance) and click **Confirm Deposit**.
+- A deposit fee is applied automatically (based on tier and buffer rules).
 
 ---
 
-### 5. Using Strategy Tool Templates
+### 4. Understanding Vault Logic & Buffer System
 
-When available:
+After depositing, Core1 vault operates as follows:
 
-- Navigate to the **Tools** section.
-- Choose a strategy template (e.g. dual-EMA, trailing stop-loss).
-- Connect using MetaMask and **approve builder fee usage**.
-- Fund and deploy the strategy; trades will execute using Hyperliquid vault accounts.
-- Builder fees (~0.01–0.1%) accrue to Hyper‑Strategies automatically.
+- A portion of the deposit fee is credited as a **bonus buffer**.
+- *Next deposit* up to the buffer amount is **fee-free** and fully invested.
+- Deposits beyond the buffer trigger a new fee on the excess amount only.
+- Users can toggle **Auto‑Compound**:
+  - **ON**: Profits stay in Core1 automatically.
+  - **OFF**: Profits are withdrawn back to your Hyper‑Strategies wallet.
+- Performance fees apply only to trading profit (not buffer or deposit) depending on lock-up term.
 
 ---
 
-### 6. Monitoring & Support
+### 5. Using Vault2 (Dual EMA ApeCoin Strategy)
 
-- View real-time **performance charts**, **trade fills**, and **PnL updates**.
-- Track your **tier benefits**, **reward points**, and **token incentives**.
-- Access **support** via:
-  - Discord / Telegram
-  - GitHub Discussions
-  - Feedback forms in-app
+- Vault2 requires no configuration—just deposit USDC.
+- Strategy trades automatically on APE/USDC via Dual EMA logic.
+- Risk settings are managed on-chain; profits compound by default.
+
+---
+
+### 6. 🚀 Dashboard & Monitoring
+
+Visit the **Performance Dashboard** to view:
+
+- **Net Asset Value (NAV)** and **real-time PnL**
+- **Trade history** with fills, entry/exit, profit details
+- **Performance metrics**: win rate, Sharpe, drawdown
+- **Rewards panel**: view bonus buffer, tier level, PST accruals
+
+---
+
+### 🔧 Common Tips & Best Practices
+
+- Use reputable exchanges for buying USDC (e.g. Coinbase, Kraken, Crypto.com) with known low fees. :contentReference[oaicite:1]{index=1}
+- Confirm **USDC contract address** to avoid sending wrong tokens.
+- Track your **bonus buffer** status and **tier promotions** on the UI.
+
+---
+
+### ✅ Summary Flow
+
+1. **Register and verify** on Hyper‑Strategies.
+2. **Buy USDC externally** and send to your wallet.
+3. **Deposit into Core1 or Vault2.**
+4. **Monitor performance and rewards** via Dashboard.
+5. **Toggle auto‑compound** or withdraw profits from Core1 as preferred.
+
+---
+

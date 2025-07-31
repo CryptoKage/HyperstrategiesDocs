@@ -1,6 +1,6 @@
 # Welcome
 
-Hyper‑Strategies is a DeFi-native hedge fund focused on delivering automated strategies and tooling in an accessible format. We make sophisticated trading available to retail users—even without deep crypto literacy—while still serving experienced DeFi-native participants.
+Hyper‑Strategies is a DeFi-native hedge fund focused on delivering automated trading strategies in an accessible, on-chain format. We make sophisticated trading available to retail users—even without deep crypto literacy—while still serving experienced DeFi-native participants.
 
 Capital is deployed across modular, efficient venues like Hyperliquid, allowing us to not only execute trades but also earn protocol-based upside through volume-based rewards. These rewards can be reinvested into strategies or shared back with users.
 

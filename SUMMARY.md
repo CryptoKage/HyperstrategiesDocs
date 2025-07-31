@@ -1,5 +1,9 @@
 # Table of contents
 
+## Introduction
+
+***
+
 * [Welcome](README.md)
 
 ## 🏛️ Core Offerings

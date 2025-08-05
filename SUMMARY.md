@@ -11,7 +11,6 @@
 * [User Guide / Getting Started](user-guide/user-guide-getting-started/README.md)
   * [Detailed Guide](user-guide/detailed-guide.md)
   * [Account Tiers](user-guide/account-tiers.md)
-  * [Vault Deposits](user-guide/vault-deposits.md)
   * [Bonus Points](user-guide/bonus-points.md)
 
 ## 🏛️ Core Offerings

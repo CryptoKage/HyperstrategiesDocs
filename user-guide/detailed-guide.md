@@ -27,7 +27,6 @@
 - Navigate to the **Dashboard**.
 - You’ll see available vaults: **Core1**, **Vault2**.
 - Click **Deposit** on Core1 vault.
-- Choose lock-up term (1‑month or 3‑+ months).
 - Enter amount (up to your wallet’s balance) and click **Confirm Deposit**.
 - A deposit fee is applied automatically (based on tier and buffer rules).
 
@@ -37,14 +36,11 @@
 
 After depositing, Core1 vault operates as follows:
 
-- A portion of the deposit fee is credited as a **bonus buffer**.
-- *Next deposit* up to the buffer amount is **fee-free** and fully invested.
-- Deposits beyond the buffer trigger a new fee on the excess amount only.
+- A portion of the deposit fee is credited as **bonus points**.
 - Users can toggle **Auto‑Compound**:
-  - **ON**: Profits stay in Core1 automatically.
+  - **ON**: Profits stay in Core1 automatically. 
   - **OFF**: Profits are withdrawn back to your Hyper‑Strategies wallet.
-- Performance fees apply only to trading profit (not buffer or deposit) depending on lock-up term.
-
+- See Fee Section for Vaults Deposit & Performacnce Fees
 ---
 
 ### 5. Using Vault2 (Dual EMA ApeCoin Strategy)

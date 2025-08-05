@@ -28,4 +28,4 @@ Leveling up your Account Tier is all about earning XP. Here are the primary ways
 *   **Successful Referrals:** Earn a significant XP bonus when a new user you referred makes their first capital allocation.
 *   **Bonus Point Buy-Back:** Earn **0.1 XP** for every 1 Bonus Point the platform buys back from you.
 
-To see a full breakdown of the XP system and your rank, visit the [**XP Leaderboard**](/xpleaderboard).
+To see a full breakdown of the XP system and your rank, visit the [**XP Leaderboard**](https://hyper-strategies/xpleaderboard).

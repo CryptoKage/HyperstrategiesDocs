@@ -9,8 +9,8 @@
 ## 🏛️ Core Offerings
 
 * [Vaults Overview](core-offerings/vaults-overview.md)
-  * [Core1 — Discretionary Vault](core-offerings/core1-discretionary.md)
-  * [Vault2 — ApeCoin EMA Strategy](core-offerings/vault2-apecoin-ema.md)
+  * [Vault Core — Discretionary](core-offerings/core1-discretionary.md)
+  * [Vault Ape — ApeCoin EMA Strategy](core-offerings/vault2-apecoin-ema.md)
   * [Vault3 — Future Strategies](core-offerings/vault3-future.md)
   * [Withdrawal & Reinvestment Logic](core-offerings/withdrawal-logic.md)
 

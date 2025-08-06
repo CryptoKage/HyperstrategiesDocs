@@ -1,4 +1,4 @@
-# Vault2 — ApeCoin EMA Strategy
+# Vault APE — ApeCoin EMA Strategy
 
 This vault provides fully automated, passive exposure to a rules-based trading system.
 

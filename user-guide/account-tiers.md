@@ -1,6 +1,6 @@
 # Understanding Account Tiers
 
-Your **Account Tier** is a measure of your overall contribution and commitment to the HyperStrategies ecosystem. By actively participating on the platform, you earn Experience Points (XP), which in turn increases your Account Tier. Higher tiers unlock significant benefits, rewarding our most loyal users.
+Your **Account Tier** is a measure of your overall contribution and commitment to the Hyper-Strategies ecosystem. By actively participating on the platform, you earn Experience Points (XP), which in turn increases your Account Tier. Higher tiers unlock significant benefits, rewarding our most loyal users.
 
 Our tier system is currently capped at **Tier 4** as we gather data to refine and expand the system in the future.
 
@@ -25,7 +25,7 @@ Leveling up your Account Tier is all about earning XP. Here are the primary ways
 
 *   **Capital Allocation:** Earn **1 XP** for every $10 of capital you allocate to any vault.
 *   **Time-Staked Bonus:** Earn daily XP for the capital you keep active in vaults. This rewards long-term commitment.
-*   **Successful Referrals:** Earn a significant XP bonus when a new user you referred makes their first capital allocation.
-*   **Bonus Point Buy-Back:** Earn **0.1 XP** for every 1 Bonus Point the platform buys back from you.
+*   **Successful Referrals:** Earn a significant XP bonus whenever a new user you referred makes a capital allocation.
+*   **Bonus Point Buy-Back:** Earn **1 XP** for every 10 Bonus Points the platform buys back from you.
 
 To see a full breakdown of the XP system and your rank, visit the [**XP Leaderboard**](https://www.hyper-strategies.com/xpleaderboard)

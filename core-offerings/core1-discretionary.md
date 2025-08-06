@@ -1,4 +1,4 @@
-# Core1 — Discretionary Vault
+# Vault Core — Discretionary
 
 The Core vault is our flagship product, operating like a traditional hedge fund with active, discretionary management.
 
@@ -14,9 +14,9 @@ The Core vault is our flagship product, operating like a traditional hedge fund 
 performance fee structure:
 
 * 20% performance fee
-* **20% deposit fee (at base level)**
+* **20% vault deposit fee (at base level)**
 
-Initial deposit fee / Onboarding fee: deposit fee is dependant on the users account tier, users are given bonus points in exchange. Bonus points are bought back by the project and become XP points for the upcoming TGE. Post TGE bonus points are replaced by the hyperstrategies token.
+Vault deposit fee: The fee steadily decreases for each additional tier, which depends on the account’s XP. Vault users receive Bonus points for the same value of the vault deposit fee which will be bought back by the project and will also become XP points. The total XP accumulated will determine allocation amount for the TGE. Post TGE bonus points are replaced by the hyperstrategies token. 
 
 * Tier 2 : -2% Discount on deposit fee
 * Tier 3 : -4% Discount on deposit fee

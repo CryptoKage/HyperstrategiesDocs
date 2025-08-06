@@ -26,4 +26,4 @@ Your capital is now liquid and available within the platform. You can either all
 
 ### Stage 3: Withdrawing from the Platform (On-Chain)
 
-To move funds from your HyperStrategies account to an external wallet (like MetaMask), you must use the "Withdraw Funds" feature on your [**Wallet Page**](/wallet). This is a separate, on-chain transaction that sends USDC from our system to your specified address.
+To move funds from your Hyper-Strategies account to an external wallet (like MetaMask), you must use the "Withdraw Funds" feature on your [**Wallet Page**](/wallet). This is a separate, on-chain transaction that sends USDC from our system to your specified address.

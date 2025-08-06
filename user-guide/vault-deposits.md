@@ -1,6 +1,6 @@
 # How Vault Deposits Work
 
-Allocating your capital to a HyperStrategies vault is a straightforward process designed for transparency. Here's a step-by-step breakdown of what happens when you deposit.
+Allocating your capital to a Hyper-Strategies vault is a straightforward process designed for transparency. Here's a step-by-step breakdown of what happens when you deposit.
 
 ### The Two-Step Process
 

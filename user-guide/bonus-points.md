@@ -1,6 +1,6 @@
 # What Are Bonus Points?
 
-**Bonus Points** are a core part of the HyperStrategies economic model, designed to align the interests of our users with the long-term growth of the platform.
+**Bonus Points** are a core part of the Hyper-Strategies economic model, designed to align the interests of our users with the long-term growth of the platform.
 
 When you make a deposit into a vault, a portion of that deposit is taken as a **Deposit Fee**. The entire amount of this fee is then credited directly back to you as Bonus Points, valued at a 1:1 ratio with USDC.
 
@@ -24,4 +24,4 @@ As our trading vaults generate revenue from **Performance Fees** (fees on profit
 When a buy-back occurs:
 *   A number of Bonus Points are removed from your account.
 *   The equivalent value in **USDC is added directly to your main "Available to Allocate" balance**.
-*   You also earn **0.1 XP** for every Bonus Point bought back, helping you level up your [Account Tier](/user-guides/account-tiers.md).
+*   You also earn **1 XP** for every 10 Bonus Points bought back, helping you level up your [Account Tier](/user-guides/account-tiers.md).

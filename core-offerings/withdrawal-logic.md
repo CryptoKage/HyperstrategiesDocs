@@ -4,9 +4,9 @@ This system is designed to reward user loyalty and encourage reinvestment of cap
 
 ### How It Works (Quick Overview)
 - **Initial Deposit Fee:** A deposit triggers a fee (tier-dependent discounts available).
-- **Active Allocation:** 80% of the deposit is deployed into Core1 trading; the remaining portion is issued as bonus points.
+- **Active Allocation:** When using the Core Vault, 80% of the deposit is deployed into trading. For the Ape Vault, 90% are traded instead; the remaining portion is issued as bonus points.
 - **Bonus Buffer Mechanic:** An "effectively fee-free buffer" between 0% and 100% of the deposit value allows reinvested capital without further initial fees—up to the buffer size.
-- **Tiered Fee Discounts:** Users in higher tiers pay lower initial deposit fees (down to 10%), reducing the bonus-point allocation accordingly.
+- **Tiered Fee Discounts:** Users in higher tiers pay lower initial deposit fees (down to 14% at tier 4), reducing the bonus-point allocation accordingly.
 
 <details>
 <summary>Expand for Detailed Mechanics & Examples</summary>
@@ -18,8 +18,4 @@ This system is designed to reward user loyalty and encourage reinvestment of cap
 - The user's "Bonus Buffer" is now set to **$1,000**.
 
 
-### Performance Fee:
-Performance fees are separate from deposit fees and apply only to trading profits.
-- **20%** for a 1-month lock-up period.
-- **15%** for a lock-up period of 3 months or more.
 

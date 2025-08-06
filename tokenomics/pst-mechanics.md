@@ -21,16 +21,22 @@ Buyback Reserve Allocation	From protocol reserves	Supports scarcity and future r
 
 ⚙️ Token Allocation (Planned Structure)
 
-| Category                 | % of Total Supply |
-|--------------------------|-------------------|
-| LP Seeding               | 2%                |
-| LP Cohort Rewards        | 15%                |
-| Team & Advisors (vested) | 20%                |
-| Treasury / Growth/Buy Back Fund /    | 25%                |
-| Community Reserve        | 15%                |
-| Strategic Reserve        | 13%                |
+Initial LP Seeding (15%): Seeds the PST/USDC liquidity pool at TGE, targeting $100,000 USDC paired with equivalent PST at a $1.00 launch price. This ensures deep liquidity for Hyperliquid’s high-throughput trading environment.
+LP Farming Rewards (15%): Rewards long-term liquidity providers via a cohort-based system, with multipliers for early participants to encourage sticky liquidity.
+Vault Performance Rewards (25%): Distributed to vault users as streaming rewards tied to trading profits, replacing traditional points systems.
+Team & Advisors (20%): Vested over 3-4 years to align long-term incentives for the Hyper-Strategies team.
+Treasury & Growth (20%): Controlled by the team for operational expenses, vault development, and ecosystem integrations.
+Community Reserve (5%): Supports marketing and onboarding non-crypto-native users.
+Strategic Reserve (4%): Funds a pre-TGE strategic presale to enhance liquidity and accelerate protocol development.
 
-(Actual percentages to be defined and updated prior to TGE.)
+
+Fee Structure: A 20% protocol fee on USDC vault deposits sustains the ecosystem:
+75% to operations.
+15% to PST/USDC liquidity pool seeding.
+5% to a buyback reserve.
+5% to an LP reward vault.
+
+Buybacks, funded by trading profits and the 5% reserve, tie PST’s value to Hyper-Strategies’ performance. Repurchased tokens are redistributed to vault users or burned to create deflationary pressure.
 
 🎯 PST Lifecycle Flow
 Initial Deposit – PST credit allocated, bonus buffer grows.

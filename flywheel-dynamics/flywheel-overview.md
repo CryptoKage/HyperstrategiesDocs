@@ -11,10 +11,6 @@ As users place trades via our vaults, a significant portion of the collected tra
 #### Reward Distribution
 Builders (like Hyper-Strategies) earn referral fees on volume, and vault users receive points that can be converted into our native PST token or redistributed as liquidity. This adds a compounding layer to vault returns.
 
-#### Tiered Fee Structure
-- **Builder fees (~0.01% per trade)** flow directly to Hyper‑Strategies as revenue.
-- **Performance fees (20% for 1-month lock / 15% for 3+ months)** encourage longer-term capital commitment from users.
-
 ### 🔍 Flow Diagram
 <details>
 <summary>View Flywheel Flow</summary>

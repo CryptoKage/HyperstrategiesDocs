@@ -17,8 +17,6 @@
 ## 🔗 Hyperliquid Integration
 
 * [Integration Architecture](integrations/integration-architecture.md)
-* [Builder Fee Workflow](hyperliquid-integration/builder-fee-workflow.md)
-* [WebSocket Feed Subscriptions](hyperliquid-integration/websocket-feed-subscriptions.md)
 
 ## 🔁 Flywheel Strategy
 

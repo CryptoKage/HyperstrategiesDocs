@@ -6,13 +6,6 @@
 
 * [Welcome](README.md)
 
-## 📓 User Guide
-
-* [User Guide / Getting Started](user-guide/user-guide-getting-started/README.md)
-  * [Quick Guide](user-guide/quick-guide.md)
-  * [Account Tiers](user-guide/account-tiers.md)
-  * [Bonus Points](user-guide/bonus-points.md)
-
 ## 🏛️ Core Offerings
 
 * [Vaults Overview](core-offerings/vaults-overview.md)
@@ -54,10 +47,11 @@
 
 ---
 
-### 🔑 Key Concepts: A Quick Guide
-* [Account Tiers Explained](key-concepts/account-tiers.md)
-* [Understanding Bonus Points](key-concepts/bonus-points.md)
-* [How Vault Deposits Work](key-concepts/vault-deposits.md)
+## 📓 User Guide
 
-
+* [User Guide / Getting Started](user-guide/user-guide-getting-started/README.md)
+  * [Quick Guide](user-guide/quick-guide.md)
+  * [Account Tiers](user-guide/account-tiers.md)
+  * [Bonus Points](user-guide/bonus-points.md)
+  * (Syndicate Refferals)(user-guide/syndicate.md)
 

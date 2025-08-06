@@ -1,12 +1,10 @@
-How Ref Syndicates Work
+# How Ref Syndicates Work
 
-Join a Syndicate
+# Join a Syndicate
 
-Sign up for our fund using a unique referral link shared by a Ref Syndicate. This links you to a community pool where all members benefit together.
+ Sign up for our fund using a unique referral link shared by a Ref Syndicate. This links you to a community pool where all members benefit together. (or join via the profile page on the site)
 
-Each account is tied to a unique blockchain wallet address, ensuring fairness and transparency.
-
-Earn Syndicate Rewards
+# Earn Syndicate Rewards
 
 Our fund charges a 17-20% performance fee on profits. A portion of this fee (1-3%) is allocated to your syndicate’s reward pool, based on the total deposits in your syndicate:
 
@@ -18,7 +16,7 @@ Our fund charges a 17-20% performance fee on profits. A portion of this fee (1-3
 
 Rewards are distributed equally among all syndicate members with deposits of $1,000 or more, ensuring everyone shares in the success.
 
-Get Started
+# Get Started
 
 Join a Syndicate: Use a referral link from an existing syndicate or ask us for one to join a community.
 

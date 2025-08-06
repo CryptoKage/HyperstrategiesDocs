@@ -16,7 +16,7 @@
 2. **Create and verify** your account.
 3. Deposit fiat (GBP, EUR, USD, etc.) via bank transfer or card.
 4. **Buy USDC** (select USDC in the app, choose your fiat pair).
-    - Example: Buy £100 USDC → you receive ~100 USDC (with small fees). :contentReference[oaicite:0]{index=0}
+    - Example: Buy £100 USDC → you receive ~100 USDC (with small fees).
 5. **Withdraw or send USDC** to the address shown on your Hyper‑Strategies Wallet page.
 6. Once the transaction clears, your Hyper‑Strategies wallet balance will update.
 
@@ -64,7 +64,7 @@ Visit the **Performance Dashboard** to view:
 
 ### 🔧 Common Tips & Best Practices
 
-- Use reputable exchanges for buying USDC (e.g. Coinbase, Kraken, Crypto.com) with known low fees. :contentReference[oaicite:1]{index=1}
+- Use reputable exchanges for buying USDC (e.g. Coinbase, Kraken, Crypto.com) with known low fees. 
 - Confirm **USDC contract address** to avoid sending wrong tokens.
 - Track your **bonus buffer** status and **tier promotions** on the UI.
 

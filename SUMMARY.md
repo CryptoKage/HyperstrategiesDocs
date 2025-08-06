@@ -9,7 +9,7 @@
 ## 📓 User Guide
 
 * [User Guide / Getting Started](user-guide/user-guide-getting-started/README.md)
-  * [Detailed Guide](user-guide/detailed-guide.md)
+  * [Quick Guide](user-guide/quick-guide.md)
   * [Account Tiers](user-guide/account-tiers.md)
   * [Bonus Points](user-guide/bonus-points.md)
 

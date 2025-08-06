@@ -23,13 +23,13 @@ Buyback Reserve Allocation	From protocol reserves	Supports scarcity and future r
 
 | Category                 | % of Total Supply |
 |--------------------------|-------------------|
-| Vault Deposit Credits     | x%                |
-| Performance Rewards       | y%                |
-| LP Cohort Rewards         | z%                |
-| Team & Advisors (vested)  | a%                |
-| Treasury / Growth Fund    | b%                |
-| Community Reserve         | c%                |
-| Strategic Reserve         | d%                |
+| LP Seeding               | 2%                |
+| LP Cohort Rewards        | 15%                |
+| Team & Advisors (vested) | 20%                |
+| Treasury / Growth/Buy Back Fund /    | 25%                |
+| Community Reserve        | 15%                |
+| Strategic Reserve        | 13%                |
+
 (Actual percentages to be defined and updated prior to TGE.)
 
 🎯 PST Lifecycle Flow

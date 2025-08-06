@@ -15,7 +15,7 @@ Your tier is automatically calculated based on your total XP. Here are the curre
 | **Tier 3**  | 1,500 - 2,999 XP  | **-4%** Deposit Fee Discount on the Core Vault.             |
 | **Tier 4**  | 3,000+ XP       | **-6%** Deposit Fee (Core) & **-10%** Performance Fee (ApeCoin). |
 
-> 💡 **Where can I see my tier?** Your current Account Tier is always visible on your [**Profile Page**](/profile).
+> 💡 **Where can I see my tier?** Your current Account Tier is always visible on your [**Profile Page**](https://www.hyper-strategies.com/profile)
 
 ---
 

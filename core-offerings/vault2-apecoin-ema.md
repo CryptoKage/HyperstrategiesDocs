@@ -12,9 +12,5 @@ This vault provides fully automated, passive exposure to a rules-based trading s
 ### Fees
 
 ```
-Ape Vault fees are 10% Deposit (Credited as bonus points) and 40% performance fee
+Ape Vault fees are 10% on Deposits (Credited as bonus points) and 40% performance fee
 ```
-
-* Month 1: 50% performance fee
-* Month 2: 40% performance fee
-* Month 3+: 35% performance fee

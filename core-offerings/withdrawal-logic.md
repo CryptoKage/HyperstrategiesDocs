@@ -17,25 +17,9 @@ This system is designed to reward user loyalty and encourage reinvestment of cap
 - **$800** is deployed into the trading vault.
 - The user's "Bonus Buffer" is now set to **$1,000**.
 
-### Bonus-Based Reinvestment Phase:
-- Any subsequent deposit up to the **$1,000** buffer limit will trigger **no deposit fee**.
-- The entire amount of this new deposit is immediately deployed into the vault.
 
-### Buffer Reset Rule:
-- Any new deposit that *exceeds* the current buffer (e.g., a $1,200 deposit when the buffer is $1,000) triggers a fee **only on the excess amount** ($200).
-- The total buffer then recalibrates based on the latest total deposit size.
-
-### Performance Fee Logic:
+### Performance Fee:
 Performance fees are separate from deposit fees and apply only to trading profits.
 - **20%** for a 1-month lock-up period.
 - **15%** for a lock-up period of 3 months or more.
 
-</details>
-
-### Tier & Fee Summary
-| Tier | Deposit Fee | Bonus Buffer | Performance Fee |
-| :--- | :--- | :--- | :--- |
-| **1** | 20% | Full deposit value | 20% / 15% |
-| **2** | 18% | Full deposit value | Same |
-| **3** | 15% | Full deposit value | Same |
-| **4** | 10% | Full deposit value | Same |

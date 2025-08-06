@@ -16,7 +16,7 @@ performance fee structure:
 * 20% performance fee
 * **20% deposit fee (at base level)**
 
-Initial deposit fee / Onboarding fee: deposit fee is dependant on the users account tier and X score, users are given bonus points in exchange. Bonus points are bought back by the project and become XP points for the upcoming TGE. Post TGE bonus points are replaced by the hyperstrategies token.
+Initial deposit fee / Onboarding fee: deposit fee is dependant on the users account tier, users are given bonus points in exchange. Bonus points are bought back by the project and become XP points for the upcoming TGE. Post TGE bonus points are replaced by the hyperstrategies token.
 
 * Tier 2 : -2% Discount on deposit fee
 * Tier 3 : -4% Discount on deposit fee

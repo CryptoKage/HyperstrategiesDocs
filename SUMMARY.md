@@ -51,5 +51,5 @@
   * [Quick Guide](user-guide/quick-guide.md)
   * [Account Tiers](user-guide/account-tiers.md)
   * [Bonus Points](user-guide/bonus-points.md)
-  * (Syndicate Refferals)(user-guide/syndicate.md)
+  * [Syndicate Refferals](user-guide/syndicate.md)
 
